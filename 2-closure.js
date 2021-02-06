@@ -1,3 +1,6 @@
+// http://csbin.io/closures
+// Solutions: https://github.com/CodesmithLLC/cs-bin-solutions
+
 // CHALLENGE 1
 function createFunction() {
 	return function () {
